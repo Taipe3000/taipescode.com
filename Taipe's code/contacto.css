@@ -1,0 +1,43 @@
+header{
+    background-color: #454A71;
+    padding: 20px 0;
+}
+header img{
+    width: 200px;
+  height: 200px;
+}
+.menu{
+    width: 940px;
+    position:relative;
+     margin: 0 auto;
+}
+nav{
+position: absolute;
+top: 110px;
+right: 0;
+font-size: 25;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;  
+    font-size: 22px;
+    color: #723535;
+}
+nav a:hover{
+    color: #c78c19;
+    text-decoration: underline;
+}
+footer{
+    background-color:black}
+form{
+ margin: 40px 0;
+}
+form label {
+    display:block;
+    
+}
